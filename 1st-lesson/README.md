@@ -1,5 +1,13 @@
 # 1st Lesson
 
+## Windows setup
+
+1. Install `mingw`: https://sourceforge.net/projects/mingw/
+1. Add `mingw` folder to `PATH`
+1. Test with the command `gcc --version`
+1. Install VSCode: https://code.visualstudio.com/
+1. Download the C/C++ VSCode extension: https://marketplace.visualstudio.com/items?itemName=ms-vscode.cpptools
+
 ## Warnings
 
 Compiler warning options:
