@@ -12,6 +12,10 @@ Compiler warning options:
 gcc -Wall -Wextra -Wpedantic  ./main.c -o ./main
 ```
 
+## Homework
+
+-
+
 ## Scanf (for those who interested)
 
 - https://sekrit.de/webdocs/c/beginners-guide-away-from-scanf.html
