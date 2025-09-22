@@ -9,16 +9,16 @@ int main()
   printf("Addition: %d + %d = %d", a, b, c);
 
   // int c = a - b;
-  // printf("Addition: %d - %d = %d", a, b, c);
+  // printf("Substraction: %d - %d = %d", a, b, c);
 
   // int c = a * b;
-  // printf("Addition: %d * %d = %d", a, b, c);
+  // printf("Multiplication: %d * %d = %d", a, b, c);
 
   // float c = a / b;
-  // printf("Addition: %d / %d = %d", a, b, c);
+  // printf("Division: %d / %d = %d", a, b, c);
 
   // int c = a % b;
-  // printf("Addition: %d % %d = %d", a, b, c);
+  // printf("Modulo: %d % %d = %d", a, b, c);
 
   return 0;
 }
